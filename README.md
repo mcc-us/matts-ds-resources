@@ -1,5 +1,5 @@
 *Greetings*,  
-These **Data Science resources** are among my favorites, and I have **used and would recommend**.   
+These Data Science resources are among my favorites. I have **used and would recommend them**.   
 Whenever possible, I prefer to list **FREE** material.  
 
 Matt C.
