@@ -33,6 +33,8 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 - [Linear Algebra, Jim Hefferon](https://open.umn.edu/opentextbooks/textbooks/24), *FREE*
 
+-  :movie_camera: [Linear Algebra with Dr Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - This is a playlist of his MIT classes. It's ok if you skip the first class, it's course info.
+
 ### Programming Help
 
 - [Free Code Camp](https://www.freecodecamp.org/news/about/), *FREE*
@@ -71,7 +73,7 @@ These are more like terse notes for a quick reference.
 - Swirl is an excellent beginner tool for learning R: (https://swirlstats.com/)
 
 
-### Python
+### :snake: Python
   
 - &#127775; I enjoy Dr. Chuck's youtube lectures [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/), *FREE* Online 📗
 
@@ -91,8 +93,7 @@ There are so many alternatives:
 
 - https://jupyter4edu.github.io/jupyter-edu-book  *FREE* Online 📗
 
-### Bash :goat:
-
+### :goat: Bash 
 - &#127775; [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/), by Jeroen Janssens, *FREE* Online 📗
   
 ### SQL
@@ -102,7 +103,7 @@ There are so many alternatives:
 - [SQL Cheat Sheet:](https://www.sqltutorial.org/sql-cheat-sheet/?hss_channel=tw-1318985240)
 
  
-### Markdown :arrow_down_small:
+### :arrow_down_small: Markdown 
 
 - &#127775; [R Markdown: The Definitive Guide](https://bookdown.org/), by Yihui Xie, et al, *FREE* Online 📗
 
@@ -110,11 +111,11 @@ There are so many alternatives:
 
 - For a full list of available Github markdown emoji and codes, check out [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
    
-### Linux :penguin:
+### :penguin: Linux 
 
 - &#127775; [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux), *FREE* 
 
-### Machine Learning :tractor:
+### :tractor: Machine Learning
 
 - &#127775; [Applied Predictive Modeling by Max Kuhn, K Johnson](http://appliedpredictivemodeling.com/), *FREE* Online 📗
 
@@ -150,12 +151,12 @@ There are so many alternatives:
 - [Natural Language Processing with Python](https://www.nltk.org/book/)   
 Analyzing Text with the Natural Language Toolkit. by Steven Bird, Ewan Klein, and Edward Loper, **Very Hands-on guide book** , *FREE*  📗
 
-### Information Theory
+### :information_source: Information Theory
 
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.pdf), by David MacKay  
 Interested in reading the section on Hash codes? p.193, *FREE*  📗
 
-### Supervised :label:
+### :label: Supervised
 
 - [What are decision trees?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2701298/), by Carl Kingsford and Steven L Salzberg
 
@@ -186,7 +187,7 @@ Dr Ng is one of the creators of Coursera, but he also has a great machine learni
 
 - [Roger Peng](https://leanpub.com/u/rdpeng)
 
-### Videos 
+### :cinema: Videos 
 
 - &#127775; [FreeCodeCamp](https://www.freecodecamp.org/) **FCC** has a ton of video lectures on Youtube and which are available thru their own site. The community is welcoming, too.
 
@@ -212,9 +213,4 @@ This program is Excellent for organizing PDF's, Epubs and mobi book and article 
 - &#127775; [LeanPub](https://leanpub.com/) is a great resource for computer related books. Many books are pay what you want. They have books by Roger Peng and Jeff Leek who have written books on D.S.
 
 [Back to top ↑](#data-Science-Practitioner's-Reading-List)
-   
----
-  
-### Online Courses:
-
-- &#127775; [Python for Everybody, 'Py4E'](https://www.freecodecamp.org/) I enjoy Dr. Chuck's youtube lectures. This is a 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/), FREE Course follows his FREE Book Online 📗
+ 
