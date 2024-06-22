@@ -98,7 +98,7 @@ There are so many alternatives:
   
 ### SQL
 
-- [PostgreSQL Notes for Professionals](https://goalkicker.com/) :Free: Goalkicker has many books. Although I would call them reference type material.
+- [PostgreSQL Notes for Professionals](https://goalkicker.com/) *FREE*, Goalkicker has many books. Although I would call them reference-type material.
 
 - [SQL Cheat Sheet:](https://www.sqltutorial.org/sql-cheat-sheet/?hss_channel=tw-1318985240)
 
